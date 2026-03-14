@@ -1,0 +1,5 @@
+cookies.txt
+__pycache__/
+*.pyc
+*.pyo
+.ytmp3_config.json
